@@ -310,6 +310,6 @@ plot_graph(rolling_mean)
 - print Average score, aver FPS, max step of agent per 100 episodes
 - graph using moving average
 
-![image-20201102144637934](C:\Users\KimYujin\AppData\Roaming\Typora\typora-user-images\image-20201102144637934.png)
+![image](https://user-images.githubusercontent.com/25922439/97949528-3f2cb200-1dd7-11eb-8af7-0761d9976d84.png)
 
 ![image](https://user-images.githubusercontent.com/25922439/97949564-5d92ad80-1dd7-11eb-8f9e-08d6644966cf.png)
