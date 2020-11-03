@@ -31,7 +31,8 @@
 - ESAI aims to simplicity of usage by modularizing the Q-learning algorithm
 - ESAI Q-learning class can use only __discrete__ environment of openai-gym.
 
-![image](https://user-images.githubusercontent.com/25922439/97949875-591ac480-1dd8-11eb-8b5d-236bff8132dd.png = 100x100)
+![image](https://user-images.githubusercontent.com/25922439/97949875-591ac480-1dd8-11eb-8b5d-236bff8132dd.png)
+<img src = "https://user-images.githubusercontent.com/25922439/97949875-591ac480-1dd8-11eb-8b5d-236bff8132dd.png" width="100" height="70">
 
 [1]: current openai-gym version support Taxi-v3 and you can use ESAI Q-learning class on Taxi-v3
 
