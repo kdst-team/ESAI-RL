@@ -312,4 +312,4 @@ plot_graph(rolling_mean)
 
 ![image-20201102144637934](C:\Users\KimYujin\AppData\Roaming\Typora\typora-user-images\image-20201102144637934.png)
 
-<img src="C:\Users\KimYujin\AppData\Roaming\Typora\typora-user-images\image-20201102161732356.png" alt="image-20201102161732356" style="zoom: 67%;" />
+![image](https://user-images.githubusercontent.com/25922439/97949564-5d92ad80-1dd7-11eb-8f9e-08d6644966cf.png)
