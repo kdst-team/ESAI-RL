@@ -31,9 +31,9 @@
 - ESAI aims to simplicity of usage by modularizing the Q-learning algorithm
 - ESAI Q-learning class can use only __discrete__ environment of openai-gym [^1]
 
-![discrete_env](C:\Users\KimYujin\Desktop\KIST\Reinforcement Learning\RL progress\discrete_env.png)
+![image](https://user-images.githubusercontent.com/25922439/97949875-591ac480-1dd8-11eb-8b5d-236bff8132dd.png)
 
-[^1]: current openai-gym version support Taxi-v3 and you can use ESAI Q-learning class on Taxi-v3
+[1]: current openai-gym version support Taxi-v3 and you can use ESAI Q-learning class on Taxi-v3
 
 
 
@@ -89,7 +89,7 @@ __parameters__
 
 __graph example__
 
-![FrozenLake-v0 reward graph](C:\Users\KimYujin\Desktop\KIST\Reinforcement Learning\RL progress\frozenLake-v0.png)
+![image](https://user-images.githubusercontent.com/25922439/97949669-b8c4a000-1dd7-11eb-93bb-fd44299d2d2c.png)
 
 #### Usage
 
